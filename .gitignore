@@ -1,0 +1,25 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Supabase
+supabase/.temp/
+supabase/.branches/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
